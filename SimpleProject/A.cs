@@ -4,6 +4,6 @@ public class A
 {
     public int Foo()
     {
-        return 1;
+        return 0;
     }
 }
